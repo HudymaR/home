@@ -2,6 +2,7 @@ body
 {
 	background : url(background.jpg);
 	color : white;
+	font-family : cursive; 
 }
 
 .pp
