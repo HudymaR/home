@@ -1,0 +1,55 @@
+body
+{
+	background-color : #7EC278;
+	font-family : cursive;
+	color : #427B3D;
+
+}
+
+p
+{
+	color : #427B3D;
+}
+
+.headings
+{
+	color : #427B3D;
+}
+
+h1
+{
+	color : #427B3D;
+	text-align : center;
+}
+
+/* this goes for all images*/
+img
+{
+	border-color : white;
+	border-width : medium;
+	border-style : solid;
+	padding : 0%;
+	margin : 1%;
+}
+
+/* Fix button*/
+
+
+.button
+{
+	text-align : center;
+	margin : auto;
+	background-color : black;
+	border : 1px;
+	cursor : pointer;
+	text-decoration : none;
+	font-size : 16px;
+	width : 4%;
+	display : flex;
+	color : white;
+}
+
+.button:hover 
+{
+        background-color: #427B3D;
+}

@@ -1,0 +1,40 @@
+body
+{
+	background-color : #E4CF7A;
+	color : #9F8C42;
+	font-family : cursive;
+}
+
+h1, h2
+{
+	text-align : center;
+}
+
+img
+{
+	border-color : #9F8C42;
+	border-width : medium;
+	border-style : solid;
+	padding : 0%;
+	margin : 1%;
+	text-align : center;
+}
+
+.button
+{
+	text-align : center;
+	margin : auto;
+	background-color : black;
+	border : 1px;
+	cursor : pointer;
+	text-decoration : none;
+	font-size : 16px;
+	width : 4%;
+	display : flex;
+	color : white;
+}
+
+.button:hover 
+{
+        background-color: #9F8C42;
+}

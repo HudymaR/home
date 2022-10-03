@@ -1,0 +1,70 @@
+h1
+{
+	text-align : center;
+}
+
+body
+{
+	background-color : #B17FBA;
+	color : #84488E;
+	font-family : cursive;
+}
+
+p
+{
+	text-align : center;
+}
+
+.list
+{
+	text-align : center;
+	list-style : inside;
+}
+
+img
+{
+	border-color : white;
+	border-width : medium;
+	border-style : solid;
+	padding : 0%;
+	margin : 0%;
+}
+
+.button
+{
+	text-align : center;
+	margin : auto;
+	background-color : black;
+	border : 1px;
+	cursor : pointer;
+	text-decoration : none;
+	font-size : 16px;
+	width : 4%;
+	display : flex;
+	color : white;
+}
+
+.button:hover 
+{
+        background-color: #84488E;
+}
+.table
+{
+	margin : auto;
+}
+.ttable
+{
+	border : 1px solid black ;
+	margin : auto;
+}
+
+div.container 
+{
+	text-align: center;
+}
+
+ol.myOL 
+{
+	display: inline-block;
+	text-align: left;
+}

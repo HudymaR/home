@@ -1,0 +1,33 @@
+h1, h2
+{
+	text-align : center;
+}
+
+body
+{
+	background-color : #7C92CA;
+	color : #334880;
+	font-family : cursive;
+}
+table
+{
+	margin : auto;
+}
+.button
+{
+	text-align : center;
+	margin : auto;
+	background-color : black;
+	border : 1px;
+	cursor : pointer;
+	text-decoration : none;
+	font-size : 16px;
+	width : 4%;
+	display : flex;
+	color : white;
+}
+
+.button:hover 
+{
+        background-color: #334880;
+}

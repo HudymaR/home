@@ -1,0 +1,18 @@
+.button
+{
+	text-align : center;
+	margin : auto;
+	background-color : black;
+	border : 1px;
+	cursor : pointer;
+	text-decoration : none;
+	font-size : 16px;
+	width : 4%;
+	display : flex;
+	color : white;
+}
+
+.button:hover 
+{
+        background-color: blue;
+}
