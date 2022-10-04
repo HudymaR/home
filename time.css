@@ -31,3 +31,12 @@ table
 {
         background-color: #334880;
 }
+
+img
+{
+	border-color : white;
+	border-width : medium;
+	border-style : solid;
+	padding : 0%;
+	margin : 1%;
+}
