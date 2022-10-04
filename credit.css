@@ -14,5 +14,16 @@
 
 .button:hover 
 {
-        background-color: blue;
+        background-color: #D368C8;
+}
+
+body
+{
+	background-color : #F4BDF9;
+	color : #D368C8;
+}
+
+h1
+{
+	text-align : center;
 }
