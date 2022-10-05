@@ -11,7 +11,7 @@
 	display : flex;
 	color : white;
 }
-
+/* button hover colour should be the same as the text */
 .button:hover 
 {
         background-color: #D368C8;
@@ -23,7 +23,7 @@ body
 	color : #D368C8;
 	font-family : "Comic Sans MS";
 }
-
+/* h1's always centered */
 h1
 {
 	text-align : center;

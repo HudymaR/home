@@ -26,12 +26,12 @@ table
 	display : flex;
 	color : white;
 }
-
+/* button hover colour should be the same as the text */
 .button:hover 
 {
         background-color: #334880;
 }
-
+/* for every image */
 img
 {
 	border-color : white;

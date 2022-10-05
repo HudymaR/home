@@ -4,12 +4,13 @@ body
 	color : #9F8C42;
 	font-family : "Comic Sans MS";
 }
-
+/* font should be the same on every page */
 h1, h2
 {
 	text-align : center;
 }
 
+/* make border colour same as text */
 img
 {
 	border-color : #9F8C42;

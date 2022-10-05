@@ -15,6 +15,7 @@ p
 	text-align : center;
 }
 
+/* can't center numbered list */
 .list
 {
 	text-align : center;
@@ -42,6 +43,8 @@ img
 	display : flex;
 	color : white;
 }
+
+/* button hover colour should be the same as the text */
 
 .button:hover 
 {
